@@ -5,6 +5,8 @@ Collection of Atheros Radio Calibration Binaries tested for AR9287, AR9341, AR93
 ----------------------------------------------------------------------------------
 
 * Use at your own risk!
+* Please note that changing ART partition AFFECTS throughput performance use jperf/iperf to test throughput to be sure
+* Higher DBM Values doesn't always means better!
 
 How to use
 ----------
